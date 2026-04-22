@@ -17,7 +17,7 @@ This demo is a pitch for one exclusive partner to bring it to life with full lea
 - Zero download, instant play
 - Built for embed and sharing
 
-## Roadmap (with exclusive partnership)
+## Roadmap 
 
 - Player collection and boost mechanics
 - Multiplayer development
